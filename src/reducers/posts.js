@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 // eslint-disable-next-line import/no-anonymous-default-export
 import { FETCH_ALL, CREATE, UPDATE, DELETE } from '../constants/actionTypes';
 
